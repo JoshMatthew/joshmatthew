@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshmatthew&label=Profile%20views&color=0e75b6&style=flat" alt="joshmatthew" /> </p>
 
-- 👨‍💻 All of my projects are available at [jmct.xyz](jmct.dev)
+- 👨‍💻 All of my projects are available at [my website](jmct.dev)
 
 - 📫 How to reach me **mateo.talplacido.24@gmail.com**
 
