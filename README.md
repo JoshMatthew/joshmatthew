@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshmatthew&label=Profile%20views&color=0e75b6&style=flat" alt="joshmatthew" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshmatthew" alt="joshmatthew" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [jmct.xyz](jmct.xyz)
+- 👨‍💻 All of my projects are available at [jmct.xyz](jmct.dev)
 
 - 📫 How to reach me **mateo.talplacido.24@gmail.com**
 
